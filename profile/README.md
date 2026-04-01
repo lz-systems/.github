@@ -1,1 +1,3 @@
-### Zero Lattice Systems
+# Zero Lattice Systems
+
+> **Simplicity in architecture. Performance in execution.**
